@@ -4,7 +4,7 @@ Repository for all the work I do for my Fall 2022 Machine Learning for Signal Pr
 Class was given in Turkish at Istanbul Technical University.
 
 <b>HW1-Jupyter Notebook</b>
-Did my work on Python using Jupyter Notebooks. In the first homework we were given an xml file containing a dataset of 50 examples with 4 features for 3 classes.<br><br>
+Did my work on Python using Jupyter Notebooks. In the first homework we were given an xml file containing a dataset of 50 examples with 4 features for 3 classes.<br>
 <i> Tasks:</i>
 <br>  1-Obtain the mean vector of each class
 <br>  2-Obtain the covariance matrix of each class
